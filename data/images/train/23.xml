@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>23.jpg</filename>
+	<path>C:\Users\Minion\Desktop\images\train\23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HC-05</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>364</xmin>
+			<ymin>204</ymin>
+			<xmax>507</xmax>
+			<ymax>418</ymax>
+		</bndbox>
+	</object>
+</annotation>

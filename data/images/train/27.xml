@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>27.jpg</filename>
+	<path>C:\Users\Minion\Desktop\images\train\27.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Arduino Pro Mini</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>304</xmin>
+			<ymin>199</ymin>
+			<xmax>570</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>
